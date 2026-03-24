@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Belinda 👋
 
-<!--
-**belindablanco1622/belindablanco1622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Sistemas
+🏫 Universidad de Pamplona — Sede Villa del Rosario
+💻 Aprendiendo desarrollo web
+📍 Villa del Rosario, Colombia
+📧 belinda.blancobel@unipamplona.edu.co
 
-Here are some ideas to get you started:
+## 🚀 Actualmente
+- Cursando tercer semestre
+- Explorando HTML, CSS y fundamentos de programación
+- Construyendo mi identidad digital profesional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Me interesa aprender
+- Java
+- Frameworks de desarrollo web
+- Bases de datos
